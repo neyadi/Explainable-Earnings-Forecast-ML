@@ -32,11 +32,33 @@ git clone https://github.com/neyadi/Explainable-Earnings-Forecast-ML.git
 
 # navigate to the project directory
 cd Explainable-Earnings-Forecast-ML
-
-# install dependencies
-pip install -r requirements.txt
 ```
 
 ## Usage
 
-To get the results in the paper:
+To use this project and get the results in the thesis, you need to follow these steps:
+
+1. Make sure you have Jupyter installed. If not, you can install it using pip:
+```bash
+pip install notebook
+```
+
+2. Navigate to the project directory, if you haven't already:
+```bash
+cd Explainable-Earnings-Forecast-ML
+```
+
+3. Start Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+4. Once Jupyter Notebook is running, it should open in your web browser. Navigate through the `code` directory.
+   
+5. Inside the `code` directory, you will find a series of Jupyter notebooks (`*.ipynb` files). These notebooks are prefixed with numbers indicating the order in which they should be executed.
+
+Note: Some notebooks may depend on the outputs of the previous ones. Ensure all notebooks are run in the sequence provided to maintain consistency in results.
+
+
+
+
