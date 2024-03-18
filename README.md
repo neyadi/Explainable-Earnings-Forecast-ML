@@ -1,6 +1,6 @@
 # Machine Learning for Explainable Future Earnings Forecasting
 
-This repository contains the implementation of my MSc thesis project, titled "Machine Learning for Explainable Future Earnings Forecasting", at Khalifa University of Science and Technology. The project explores the application of machine learning techniques, particularly Light Gradient Boosting Machine (LightGBM), to forecast the direction of future quarterly earnings and provides interpretations using Explainable Artificial Intelligence (XAI) methods, including SHAP and LIME.
+This repository contains the implementation of my MSc thesis project, titled "Machine Learning for Explainable Future Earnings Forecasting", at Khalifa University of Science and Technology. The thesis explores the application of machine learning techniques, particularly Light Gradient Boosting Machine (LightGBM), to forecast the direction of future quarterly earnings and provides interpretations using Explainable Artificial Intelligence (XAI) methods, including SHAP and LIME.
 
 ## Dataset
 
