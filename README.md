@@ -39,7 +39,7 @@ jupyter notebook
 
 4. Once Jupyter Notebook is running, it should open in your web browser. Navigate through the `code` directory.
    
-5. Inside the `code` directory, you will find a series of Jupyter notebooks (`*.ipynb` files). These notebooks are prefixed with numbers indicating the order in which they should be executed.
+5. Inside the `code` directory, you will find a series of Jupyter notebooks (`*.ipynb` files). These notebooks are prefixed with numbers/letters indicating the order in which they should be executed.
 
 Note: Some notebooks may depend on the outputs of the previous ones. Ensure all notebooks are run in the sequence provided to maintain consistency in results.
 
