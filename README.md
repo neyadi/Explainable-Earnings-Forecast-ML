@@ -4,7 +4,7 @@ This repository contains the implementation of my MSc thesis project, titled "Ma
 
 ## Dataset
 
-The dataset used in this study consists of financial statement data sourced from Compustat and the Institutional Brokers' Estimate System (IBES). It covers a wide range of public companies over a period between 1985-2020.
+The dataset used in this study consists of financial statement and earnings data sourced from Compustat and the Institutional Brokers' Estimate System (IBES). It covers a wide range of public companies over a period between 1985-2020.
 
 ## Installation
 
